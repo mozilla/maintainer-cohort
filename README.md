@@ -1,2 +1,3 @@
-# maintainer-cohort
-Github Repo for Maintainer Cohort Content
+# README
+
+This content is currently under development.
