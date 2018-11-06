@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Week 4
-module: 1
+title:  The Next Chapter
+module: 4
 date: 2016-10-06T14:05:56.000Z
-contents:
-  - _articles/week-1/discussion.md
-  - _articles/week-1/technical.md
-  - _articles/week-1/collaboration.md
-following: _articles/week-1/leadership.md
+following: 
 ---
 
-This module will introduce leaders to the opportunity of leadership in open source - **as a career bridge and a front-row seat to innovation opportunities through the empowerment of others, and positive influence on open technology** and it's development.
+
+The final week will bring our group together for a last time, to review progress of inclusivity bugs, of leadership, and most of all share our experience stepping into a role, that historically felt inaccessible, and even hostile for underrepresented people.
+
+We'll use our private channel to debrief our experiences, and to support each other in our next steps.

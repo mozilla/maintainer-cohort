@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Week 2
-module: 1
-date: 2016-10-06T14:05:56.000Z
-contents:
-  - _articles/week-1/discussion.md
-  - _articles/week-1/technical.md
-  - _articles/week-1/collaboration.md
+title: Open Source as a Career Bridge
+module: 2
+date: 2016-10-06T14:05:56.000
+
 following: _articles/week-1/leadership.md
 ---
 
-This module will introduce leaders to the opportunity of leadership in open source - **as a career bridge and a front-row seat to innovation opportunities through the empowerment of others, and positive influence on open technology** and it's development.
+This week we'll explore the opportunity of open source, creating our own Open Source career map.
+We'll additionally triage any comments or PRS opened via last weeks' inclusivity bugs.
