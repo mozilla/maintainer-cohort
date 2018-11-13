@@ -41,7 +41,9 @@ While the trend of open source projects adopting a Code of Conduct is increasing
 
 ![techleadership](https://cdn-images-1.medium.com/max/716/0*mlSgBeV75qWIgKGM.)
 
-> Pull Requests are important, but what open source really needs is people to review and triage those PRs.  Ultimately the quality of the project outcomes depend on 3 or more reviews of a single PR.   - Maintainer, Contributing Research Interviews
+
+> **Pull Requests are important, but what open source really needs is people to review and triage those PRs.  Ultimately the quality of the project outcomes depend on 3 or more reviews of a single PR.   - Maintainer, Contributing Research Interviews**
+
 
 As a community leader in a maintainer role, or supporting someone in a maintainer role, the two  important things you can focus on are:
 
@@ -50,19 +52,16 @@ As a community leader in a maintainer role, or supporting someone in a maintaine
 
 ### Reading
 
-### Technical Maintainer
-* [Maintainer Information](https://github.com/devtools-html/debugger.html/blob/826490b315548b7b51ba471f43725214af55b0eb/docs/maintainer.md)
+#### Technical Maintainer
+* [Debugger Maintainer Documentation](https://github.com/devtools-html/debugger.html/blob/826490b315548b7b51ba471f43725214af55b0eb/docs/maintainer.md)
 * [Pull Request Reviews](https://help.github.com/articles/about-pull-request-reviews/)
+
+### Optional Reading
 
 #### Mozilla's Code of Conduct Enforcement
 * [How We're Making Code of Conduct Enforcement Real - and Scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
 * [Mozilla Reporting Guidelines (draft)](https://docs.google.com/document/d/1ho5Dh5jm0TDMQGb2P2UWlwOFI9PHCWuwkkTZDzCzINo/edit?ts=5b75a47a)
 
-### Optional Reading
-
-#### Code of Conduct
-* Contributor Convenant
-* [Code of Conduct Assessment Tool](https://mozilla.github.io/diversity-coc-review.io/)
 
 #### On Meritocracy
 
