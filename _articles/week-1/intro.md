@@ -21,6 +21,6 @@ date: 2016-10-06T14:05:56.000Z
 [![Watch the video](https://img.youtube.com/vi/paS09pRV8bY/0.jpg)](https://www.youtube.com/watch?v=paS09pRV8bY)
 
 ### Read
-#### * [Kris Nova's story](https://github.com/case-studies/kris-nova)
-#### * [Jess Frazelle's story](https://github.com/case-studies/jessfraz)
-#### * [Steve Klabnik's story](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)
+####  [Kris Nova's story](https://github.com/case-studies/kris-nova)
+####  [Jess Frazelle's story](https://github.com/case-studies/jessfraz)
+####  [Steve Klabnik's story](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)
