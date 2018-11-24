@@ -2,6 +2,7 @@
 layout: page
 title: FOSS Leadership
 module: 2
+summary: "Open Source Needs Your Brain :)"
 date: 2016-10-06T14:05:56.000Z
 ---
 
@@ -12,7 +13,6 @@ date: 2016-10-06T14:05:56.000Z
 
 Photo credit: Internet Archive Book Images via Visual Hunt / No known copyright restrictions
 
-#### Open Source needs your brain :)
 
 ### Words Matter
 

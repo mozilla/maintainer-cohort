@@ -14,7 +14,7 @@ This week's discussion will be fairly loose, there's a bunch of reading, and a f
 I'll share an agenda in advance.
 
 
-#### This Week's Assignment
+### {{ site.assignment }} 
 
 1. Introduce yourself, and goals in our Discourse (private) category!
 2. Watch Katrina, and Amjinth's story [Me, Myself, Maintainer](../intro).

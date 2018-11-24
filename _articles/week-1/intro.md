@@ -2,6 +2,7 @@
 layout: page
 title: Me, Myself, Maintainer
 module: 1
+summary: "First steps of discovery, curiosity and inspiration"
 date: 2016-10-06T14:05:56.000Z
 
 ---

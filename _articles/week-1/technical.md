@@ -2,6 +2,7 @@
 layout: page
 title: Inclusivity Bugs
 module: 3
+summary: "“Inclusivity Bug” term borrowed from Anita Sarma and GenderMag, to describe those unknown barriers and obstacles diverse participants experience using software, that might be otherwise invisible to the majority demographic. The cohort will not work on these bugs, but should be aware of the research driving this project."
 date: 2016-10-06T14:05:56.000Z
 ---
 * TOC
@@ -9,7 +10,6 @@ date: 2016-10-06T14:05:56.000Z
 
 ![]({{ site.baseurl }}/img/bug.png)
 
-**“Inclusivity Bug”** term borrowed from Anita Sarma and [GenderMag](https://twitter.com/GenderMag), to describe those unknown barriers and obstacles diverse participants experience using software, that might be  otherwise invisible to the majority demographic.
 
 We've started using this to describe the **obstacles underrepresented contributors face while attempting to make a first contribution**.  We're starting to get better at creating simple ways projects can evaluate their projects for inclusive design  - like this '[inclusive governance checklist](https://github.com/mozilla/diversity/blob/master/evaluation_tools/governance-basic.md)'.
 
