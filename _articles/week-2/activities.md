@@ -15,6 +15,7 @@ date: 2016-10-06T14:05:56.000Z
 * Read [How to Get an Open Source Job in 2018](https://www.forbes.com/sites/louiscolumbus/2018/08/14/how-to-get-an-open-source-developer-job-in-2018/#19ca7b6e5b85) - Forbes
 * Check out this [Open Source Maintainer Job Description](https://www.womenwhocode.com/jobs/3266)
 * Read [What Open Source Can do for You](http://openhatch.org/blog/2013/what-contributing-to-open-source-can-give-back-to-you/) - Open Hatch
+* Red Github's [Starting an Open Source Project](https://opensource.guide/starting-a-project/).
 * Read Github's [Best Practices for Maintainers](https://opensource.guide/best-practices/).
 * Read [The Art of Closing, by Jess Frazelle](https://blog.jessfraz.com/post/the-art-of-closing/).
 * Read [Kindly Killing Pull Requests](https://blog.github.com/2016-03-15-kindly-closing-pull-requests/).
@@ -24,11 +25,12 @@ date: 2016-10-06T14:05:56.000Z
 
 1. I have early ideas, and inspiration for how my career goals, connect with leadership in open source.
 2. I can articulate the importance of documentation, and open communication.
+3. I can name the 3 files needed as basic documentation in a new Open Source project.
 3. I understand the importance of saying 'no', for both the project and my well being.
 4. I can describe 3 strategies for closing a task or PR (based on Jess's blog post).
 5. I understand that leaders in open source, distribute work and ask for help :)
 6. I can list 3 bots, and how they can assist an open source project.
-7. I can list 3 reasons why a pull request would not be accepted.
+7. I can list 3 reasons why a pull request might not be accepted.
 8. I understand that no project benefits from my leadership, if I am burnt out, over committed.  That self-care is a priority.
 
 
