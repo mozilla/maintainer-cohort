@@ -10,6 +10,9 @@ date: 2016-10-06T14:05:56.000Z
 {:toc}
 
 
+### {{ site.assignment }} - Join Team Channels
+If you haven't already join the [Devtools Slack](https://devtools-html-slack.herokuapp.com/) channel, and #community-leadership .
+
 ### {{ site.assignment }} - Reading
 
 * Read [How to Get an Open Source Job in 2018](https://www.forbes.com/sites/louiscolumbus/2018/08/14/how-to-get-an-open-source-developer-job-in-2018/#19ca7b6e5b85) - Forbes
