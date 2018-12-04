@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Community Leadership
+title: Overcoming Imposter Sydrome
 module: 3
 date: 2016-10-06T14:05:56.000Z
-
-
-following: _articles/week-1/leadership.md
+contents:
+  - _articles/week-3/activities.md
+following: _articles/week-3/activities.md
 ---
 
-This week, based on our contributor research,  and together with the current community leaders, we'll document project goals, and proposed changes inline with Mozilla's inclusive leadership principles.  
 
-
-![]({{ site.baseurl }}/img/il.png)
+This week will be a mix of discussion and a presentation on overcoming Imposter Syndrome.
