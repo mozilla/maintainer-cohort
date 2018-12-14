@@ -1,7 +1,7 @@
 ---
 layout: page
 title: This Week's Activities
-module: 2
+module: 1
 summary:  "This week we'll discuss observations, inspirations and challenges experienced during last week's activities, and set the stage for this week's which are intended to help you connect your personal goals to open source leadership contribution."
 date: 2016-10-06T14:05:56.000Z
 
