@@ -17,7 +17,7 @@ I'll share an agenda in advance.
 ### {{ site.assignment }} 
 
 1. Introduce yourself, and goals in our Discourse (private) category!
-2. Watch Katrina, and Amjinth's story [Me, Myself, Maintainer](../intro).
+2. Watch Katrina, Eric and Amjinth's story [Me, Myself, Maintainer](../intro).
 3. Read Kris, Jess and Steve's stories [Me, Myself, Maintainer](../intro).
 4. [Review Debugger's Maintainer Page](https://github.com/devtools-html/debugger.html/blob/826490b315548b7b51ba471f43725214af55b0eb/docs/maintainer.md)including [issues](https://github.com/devtools-html/debugger.html/blob/826490b315548b7b51ba471f43725214af55b0eb/docs/issues.md#labels). Don't worry if you have questions, that's normal!
 5. Read all about [Inclusivity Bugs](../leadership), including the findings from our Contributor testing on Debugger.
