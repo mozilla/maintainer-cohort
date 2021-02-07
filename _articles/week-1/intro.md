@@ -17,6 +17,10 @@ date: 2016-10-06T14:05:56.000Z
 
 [![Watch the video](https://img.youtube.com/vi/MjKwvdF7SrA/0.jpg)](https://www.youtube.com/watch?v=MjKwvdF7SrA)
 
+##### {{site.video}} Watch Eric's Open Source Maintainer Story
+
+[![Watch the video](https://img.youtube.com/vi/us_3IGG6leM/0.jpg)](https://www.youtube.com/watch?v=us_3IGG6leM)
+
 ##### {{site.video}} Watch Amjinth's Open Source Maintainer Story
 
 [![Watch the video](https://img.youtube.com/vi/paS09pRV8bY/0.jpg)](https://www.youtube.com/watch?v=paS09pRV8bY)
